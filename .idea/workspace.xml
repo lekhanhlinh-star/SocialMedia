@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc35be32-1d0b-40cf-9929-27999d3ae99d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="com.haulmont.rcb.palette" />
+        <option value="com.haulmont.rcb.previews" />
+        <option value="com.haulmont.rcb.index" />
+        <option value="com.haulmont.rcb.useInitial" />
+        <option value="com.haulmont.rcb.README" />
+        <option value="Python Script" />
+        <option value="TypeScript JSX File" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/projectSE" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="LTL" />
+        <entry key="$PROJECT_DIR$/projectSE" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/client/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YFOg8ATy4RCk4g0lDWQOkLc1pm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ReactCreateComponentLastSelected": "arrowFunctionComponent",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/SocialMedia",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "ts.external.directory.path": "D:\\SocialMedia\\client\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SocialMedia\client\src" />
+      <recent name="D:\SocialMedia\projectSE" />
+      <recent name="D:\SocialMedia" />
+      <recent name="D:\SocialMedia\client\src\components" />
+      <recent name="D:\SocialMedia\client\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SocialMedia\client\src\components" />
+      <recent name="D:\SocialMedia" />
+      <recent name="D:\SocialMedia\client\src" />
+      <recent name="D:\SocialMedia\client\src\components\Post" />
+      <recent name="D:\SocialMedia\client\src\components\Common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.AI">
+    <configuration name="AI" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="ai:latest" />
+          <option name="containerName" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="AI/app/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="AI/app/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="projectSE/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="projectSE/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.AI" />
+        <item itemvalue="Docker.projectSE/Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.app.app: Compose Deployment" />
+        <item itemvalue="Docker.app: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc35be32-1d0b-40cf-9929-27999d3ae99d" name="Changes" comment="" />
+      <created>1700117980974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700117980974</updated>
+      <workItem from="1700117981979" duration="8398000" />
+      <workItem from="1700484979637" duration="45000" />
+      <workItem from="1700485052487" duration="8871000" />
+      <workItem from="1700570546212" duration="6045000" />
+      <workItem from="1700618961641" duration="9002000" />
+      <workItem from="1700637523850" duration="581000" />
+      <workItem from="1700650028477" duration="14010000" />
+      <workItem from="1700714356329" duration="9629000" />
+      <workItem from="1700727531138" duration="6056000" />
+      <workItem from="1700733810080" duration="1680000" />
+      <workItem from="1700806983594" duration="1102000" />
+      <workItem from="1700811462696" duration="2066000" />
+      <workItem from="1700813854140" duration="13130000" />
+      <workItem from="1700834844921" duration="2002000" />
+      <workItem from="1700839148166" duration="1511000" />
+      <workItem from="1700886332997" duration="1832000" />
+      <workItem from="1700889069778" duration="45000" />
+      <workItem from="1700908177510" duration="3648000" />
+      <workItem from="1700984465274" duration="59000" />
+      <workItem from="1701068828874" duration="6162000" />
+      <workItem from="1701075579828" duration="4471000" />
+      <workItem from="1701080148908" duration="2618000" />
+      <workItem from="1701186374492" duration="181000" />
+      <workItem from="1701257984625" duration="11655000" />
+      <workItem from="1701278793320" duration="19000" />
+      <workItem from="1701324299514" duration="1248000" />
+      <workItem from="1701325602162" duration="300000" />
+      <workItem from="1701326208764" duration="30043000" />
+      <workItem from="1701362173861" duration="8000" />
+      <workItem from="1701409651047" duration="3566000" />
+      <workItem from="1701413469554" duration="906000" />
+      <workItem from="1701425797292" duration="3773000" />
+      <workItem from="1701430039583" duration="164000" />
+      <workItem from="1701432702375" duration="6829000" />
+      <workItem from="1701445781202" duration="3987000" />
+      <workItem from="1701492464389" duration="5560000" />
+      <workItem from="1701500601578" duration="746000" />
+      <workItem from="1701510755187" duration="520000" />
+      <workItem from="1701512370762" duration="458000" />
+      <workItem from="1701513643383" duration="383000" />
+      <workItem from="1701514279676" duration="294000" />
+      <workItem from="1701514750085" duration="362000" />
+      <workItem from="1701515189453" duration="924000" />
+      <workItem from="1701581790135" duration="680000" />
+      <workItem from="1701584421167" duration="3345000" />
+      <workItem from="1701592983492" duration="37000" />
+      <workItem from="1701603926966" duration="2434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SocialMedia$main.coverage" NAME="main Coverage Results" MODIFIED="1700812970475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/app" />
+  </component>
+</project>
